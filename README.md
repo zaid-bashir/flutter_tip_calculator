@@ -1,6 +1,6 @@
 # tipcalculatorapp
 
-A new Flutter application.
+Flutter App to distribute money amoung various persons and also to add the tip given to persons.
 
 ## Getting Started
 
